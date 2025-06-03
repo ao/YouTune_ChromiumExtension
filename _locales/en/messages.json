@@ -1,6 +1,6 @@
 {
   "extDescription": {
-    "message": "You can conceal the video and thumbnails on YouTube, enabling an audio-focused experience. For YouTube Music, it disables video playback to provide audio-only listening."
+    "message": "YouTune: Transforms YouTube into an audio-focused platform, hiding videos for distraction-free music and content."
   },
   "command1Description": {
     "message": "Enable/Disable the extension on the current tab"
